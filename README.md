@@ -1,6 +1,10 @@
 # web-dev-sites
  *Helpful links so you dont have to search for everything .*
 
+## Books 
+- [Alitebooks](http://www.allitebooks.org/)
+- [LibriBooks](https://libribook.com/)
+- [Pdf Drive](https://www.pdfdrive.com/)
 
 ## Colors
 - [Use & Modify](http://usemodify.com/)
@@ -10,17 +14,23 @@
 - [UiGradient](https://uigradients.com/#PunYeta)
 - [color.hailpixel.com](https://color.hailpixel.com/)
 - [lolColors](https://www.webdesignrankings.com/resources/lolcolors/)
+
 ## Design inspiration
 - [Dribbble](https://dribbble.com/)
 - [Siteinspire](https://www.siteinspire.com/)
 - [The best designs](https://www.thebestdesigns.com/)
 - [awwwards](https://www.awwwards.com/websites/)
+- [colorlib](https://colorlib.com/wp/templates/)
 
 ## Fonts
 
 - [Use & Modify](http://usemodify.com/)
 - [Font Flipper](https://fontflipper.com/upload)
+- [Font Spark](https://fontspark.app/)
 - [Google fonts](https://fonts.google.com/)
+
+## Logos
+- [Logo Creator](https://freelogocreator.com/maker)
 
 ## Icons
 
