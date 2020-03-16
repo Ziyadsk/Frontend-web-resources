@@ -77,6 +77,7 @@
 ## SEO
 - [Pingdom](https://tools.pingdom.com/)
 - [Seoptimer](https://www.seoptimer.com/)
+- [Google Analytics](https://analytics.google.com/)
 
 ## Text editors
 - [Visual Studio Code](https://code.visualstudio.com/)
@@ -96,3 +97,4 @@
 
 - [writing proffessional emails](https://www.examples.com/business/professional-email.html)
 - [Create a CV](https://www.canva.com/design/DAD2syBJwiY/x8VVy0AsEcdrMheYg0z3TA/edit?category=tACZCki4tbY)
+- [Uml modeling](http://www.umletino.com/umletino.html)
