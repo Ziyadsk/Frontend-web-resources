@@ -7,7 +7,12 @@
 - [Pdf Drive](https://www.pdfdrive.com/)
 
 ## Chrome extensions
-
+- [JSON Formatter](https://chrome.google.com/webstore/detail/json-viewer-awesome/iemadiahhbebdklepanmkjenfdebfpfe/related?hl=en) : makes your JSON easy to read .
+- [WhatFont](https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm?hl=en) : identify fonts used on a web page .
+- [Window resizer](https://chrome.google.com/webstore/detail/window-resizer/kkelicaakdanhinjdeammmilcgefonfh?hl=en) : resize your browser window easily to test various aspect ratios and responsivness of a website .
+- [Full Page Screen Capture](https://chrome.google.com/webstore/detail/full-page-screen-capture/fdpohaocaechififmbbbbbknoalclacl?hl=en) : helps screenshot all the web page and turns it into png or pdf.
+- [Visbug](https://chrome.google.com/webstore/detail/visbug/cdockenadnadldjbbgcallicgledbeoc?hl=en) : interact with your page directly from the browser .
+- [Wappalyzer](https://chrome.google.com/webstore/detail/wappalyzer/gppongmhjkpfnbhagpmjfkannfbllamg?hl=en) : identify web technologies .
 
 ## Colors
 - [Use & Modify](http://usemodify.com/)
@@ -36,6 +41,7 @@
 - [typ.io](https://typ.io/samples)
 
 ## Logos
+- [Canva](https://www.canva.com/design/DAD2syhNgzA/KS6o1dx3-BYk7nKHCAvVgg/edit?category=tACZCvjI6mE)
 - [Logo Creator](https://freelogocreator.com/maker)
 
 ## Icons
@@ -51,17 +57,26 @@
 - [Material Palette icons](https://www.materialpalette.com/icons)
 
 ## Images
+
+### pictures 
 - [Unsplash](https://unsplash.com/)
 - [Pexels](https://www.pexels.com/fr-fr/)
 - [Lifeofpix](https://www.lifeofpix.com/)
+
+### backgrounds
+- [Position dream](https://www.positrondream.com/wallpapers-all/)
+- [Wallhaven](https://wallhaven.cc/)
+
+### Image editors
+- [Pixlr](https://pixlr.com/x)
 
 ### Textures
 - [Transparent textures](https://www.transparenttextures.com/)
 - [Toptal](https://www.toptal.com/designers/subtlepatterns/)
 
 ## SEO
-- [pingdom](https://tools.pingdom.com/)
-- [seoptimer](https://www.seoptimer.com/)
+- [Pingdom](https://tools.pingdom.com/)
+- [Seoptimer](https://www.seoptimer.com/)
 
 ## Text editors
 - [Visual Studio Code](https://code.visualstudio.com/)
@@ -75,3 +90,9 @@
 - [remoteok](https://remoteok.io/remote-web-dev-jobs)
 - [Upwork](https://www.upwork.com/)
 - [Toptal](https://www.toptal.com/)
+- [Medium article](https://medium.com/@traversymedia/70-job-find-websites-for-developers-other-tech-professionals-34cdb45518be)
+
+## Other
+
+- [writing proffessional emails](https://www.examples.com/business/professional-email.html)
+- [Create a CV](https://www.canva.com/design/DAD2syBJwiY/x8VVy0AsEcdrMheYg0z3TA/edit?category=tACZCki4tbY)
