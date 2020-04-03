@@ -31,6 +31,7 @@
 - [The best designs](https://www.thebestdesigns.com/)
 - [awwwards](https://www.awwwards.com/websites/)
 - [colorlib](https://colorlib.com/wp/templates/)
+- [CSSLayout](https://csslayout.io/patterns)
 
 ## Fonts
 - [Google fonts](https://fonts.google.com/)
