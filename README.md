@@ -74,6 +74,7 @@
 ### Textures
 - [Transparent textures](https://www.transparenttextures.com/)
 - [Toptal](https://www.toptal.com/designers/subtlepatterns/)
+- [pattern-css](https://bansal.io/pattern-css)
 
 ## SEO
 - [Pingdom](https://tools.pingdom.com/)
