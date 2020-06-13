@@ -1,5 +1,27 @@
 # web-dev-sites
  *Helpful links so you dont have to search for everything .*
+
+# Table of content
+
+[Books](#books)  
+[Chrome extensions](#chrome-extensions)  
+[Colors](#colors)  
+[Design insipirations](#design-insipartions)  
+[Fonts](#fonts)  
+[Logos](#logos)  
+[Icons](#images)  
+[Pictures](#pictures)  
+*   [Backgrounds](#backgrounds)  
+    [Image editor](#editors)  
+    [Textures](#textures)  
+    [illustrations](#illustrations-&-vectors)  
+
+[SEO](#seo)  
+[Text editors](#text-editors)  
+[Jobs](#jobs)  
+[UML and diagrams](#uml-and-diagrams)  
+[Other](#other)  
+
 ## Books 
 - [Alitebooks](http://www.allitebooks.org/)
 - [LibriBooks](https://libribook.com/)
