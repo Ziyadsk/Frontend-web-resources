@@ -50,6 +50,8 @@
 - [Material Palette](https://www.materialpalette.com/)
 - [Colrosinspo](https://colorsinspo.com/)
 - [mycolor](https://mycolor.space/)
+- [happyhues](https://www.happyhues.co/)
+- [colors.lol](https://colors.lol/)
 
 ## Design inspirations
 
@@ -61,6 +63,7 @@
 - [CSSLayout](https://csslayout.io/patterns)
 - [pages.xyz](https://www.pages.xyz/)
 - [Land-book](https://land-book.com/)
+
 
 ## Fonts
 
@@ -124,11 +127,16 @@
 - [PngTree](https://pngtree.com/so/education)
 - [Vecteezy](https://www.vecteezy.com/)
 - [iradesign](https://iradesign.io/)
+- [blobmaker](https://www.blobmaker.app/) 
+- [wweb.dev (separator generator)](https://wweb.dev/resources/css-separator-generator)
+- [wweb.dev (animated css background)](https://wweb.dev/resources/animated-css-background-generator)
+- [getwaves](https://getwaves.io/)
 
 ## SEO
 - [Pingdom](https://tools.pingdom.com/)
 - [Seoptimer](https://www.seoptimer.com/)
 - [Google Analytics](https://analytics.google.com/)
+
 
 ## Text editors
 - [Visual Studio Code](https://code.visualstudio.com/)
