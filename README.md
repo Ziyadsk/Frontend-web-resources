@@ -119,6 +119,8 @@
 - [Toptal](https://www.toptal.com/designers/subtlepatterns/)
 - [pattern-css](https://bansal.io/pattern-css)
 - [paaaterns](https://products.ls.graphics/paaatterns/preview.html)
+- [background-generator](https://background-generator.com/)
+- [coolbackgrounds](https://coolbackgrounds.io/)
 
 ### Illustrations & Vectors
 
