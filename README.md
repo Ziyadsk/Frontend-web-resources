@@ -52,7 +52,7 @@
 - [mycolor](https://mycolor.space/)
 - [happyhues](https://www.happyhues.co/)
 - [colors.lol](https://colors.lol/)
-
+- [open-color](https://yeun.github.io/open-color/)
 ## Design inspirations
 
 - [Dribbble](https://dribbble.com/)
