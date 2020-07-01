@@ -1,9 +1,8 @@
-# web-dev-sites
+# Frontend-web-resources
  *Helpful links so you dont have to search for everything .*
 
 # content
 
-* [Books](#books)
 * [Chrome extensions](#chrome-extensions)
 * [Colors](#colors)
 * [Design insipirations](#design-inspirations)  
@@ -19,13 +18,7 @@
 * [SEO](#seo)  
 * [Text editors](#text-editors)  
 * [Jobs](#jobs)  
-* [UML and diagrams](#uml-and-diagrams)  
 * [Other](#other)  
-
-## Books 
-- [Alitebooks](http://www.allitebooks.org/)
-- [LibriBooks](https://libribook.com/)
-- [Pdf Drive](https://www.pdfdrive.com/)
 
 ## Chrome extensions
 
@@ -95,6 +88,7 @@
 - [Bootstrap](https://icons.getbootstrap.com/)
 - [Boxicons](https://boxicons.com/)
 - [simpleicons](https://simpleicons.org/) (brands icons)
+- [Tabler](https://github.com/tabler/tabler-icons)
 
 ## Images
 
@@ -133,6 +127,7 @@
 - [wweb.dev (separator generator)](https://wweb.dev/resources/css-separator-generator)
 - [wweb.dev (animated css background)](https://wweb.dev/resources/animated-css-background-generator)
 - [getwaves](https://getwaves.io/)
+- [lukaszadam](https://lukaszadam.com/illustrations)
 
 ## SEO
 - [Pingdom](https://tools.pingdom.com/)
@@ -154,16 +149,9 @@
 - [Toptal](https://www.toptal.com/)
 - [Medium article](https://medium.com/@traversymedia/70-job-find-websites-for-developers-other-tech-professionals-34cdb45518be)
 
-## UML and diagrams
-
-- [Uml modeling](http://www.umletino.com/umletino.html)
-- [app.diagrams](https://app.diagrams.net/)
-- [octopus](https://octopus.do/)
 
 ## Other
 
-- [writing proffessional emails](https://www.examples.com/business/professional-email.html)
-- [Create a CV](https://www.canva.com/design/DAD2syBJwiY/x8VVy0AsEcdrMheYg0z3TA/edit?category=tACZCki4tbY)
 - [Css grid cheat sheet](http://grid.malven.co/)
 - [Css Spinning animation](https://tobiasahlin.com/spinkit/)
 - [Excalidraw](https://excalidraw.com/)(Drawing tool)
