@@ -128,6 +128,7 @@
 - [wweb.dev (animated css background)](https://wweb.dev/resources/animated-css-background-generator)
 - [getwaves](https://getwaves.io/)
 - [lukaszadam](https://lukaszadam.com/illustrations)
+- [blush](https://blush.design/)
 
 ## SEO
 - [Pingdom](https://tools.pingdom.com/)
