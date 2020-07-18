@@ -89,6 +89,7 @@
 - [Boxicons](https://boxicons.com/)
 - [simpleicons](https://simpleicons.org/) (brands icons)
 - [Tabler](https://github.com/tabler/tabler-icons)
+- [icones](https://icones.netlify.app/)
 
 ## Images
 
