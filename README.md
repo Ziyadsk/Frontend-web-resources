@@ -68,7 +68,7 @@
 - [Font Spark](https://fontspark.app/)
 - [Programming fonts](https://app.programmingfonts.org)
 - [typ.io](https://typ.io/samples)
-
+- [beautifulwebtype](https://beautifulwebtype.com/)
 ## Logos
 - [Canva](https://www.canva.com/design/DAD2syhNgzA/KS6o1dx3-BYk7nKHCAvVgg/edit?category=tACZCvjI6mE)
 - [Logo Creator](https://freelogocreator.com/maker)
