@@ -132,6 +132,7 @@
 - [getwaves](https://getwaves.io/)
 - [lukaszadam](https://lukaszadam.com/illustrations)
 - [blush](https://blush.design/)
+- [sapiens](https://sapiens.ui8.net/)
 
 ## SEO
 - [Pingdom](https://tools.pingdom.com/)
