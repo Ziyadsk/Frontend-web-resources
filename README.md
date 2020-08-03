@@ -69,6 +69,9 @@
 - [Programming fonts](https://app.programmingfonts.org)
 - [typ.io](https://typ.io/samples)
 - [beautifulwebtype](https://beautifulwebtype.com/)
+- [Work-sans](http://charlix.cx/Work-Sans/)
+- [manropefont](https://manropefont.com/)
+
 ## Logos
 - [Canva](https://www.canva.com/design/DAD2syhNgzA/KS6o1dx3-BYk7nKHCAvVgg/edit?category=tACZCvjI6mE)
 - [Logo Creator](https://freelogocreator.com/maker)
