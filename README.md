@@ -3,22 +3,25 @@
 
 # content
 
-* [Chrome extensions](#chrome-extensions)
-* [Colors](#colors)
-* [Design insipirations](#design-inspirations)  
-* [Fonts](#fonts)  
-* [Logos](#logos)  
-* [Icons](#icons)  
-* [Images](#images)
-    * [Pictures](#pictures)  
-    * [Backgrounds](#backgrounds)  
-    * [Image editors](#image-editors)
-    * [Textures](#textures)  
-    * [illustrations](#illustrations-&-vectors)  
-* [SEO](#seo)  
-* [Text editors](#text-editors)  
-* [Jobs](#jobs)  
-* [Other](#other)  
+- [Frontend-web-resources](#frontend-web-resources)
+- [content](#content)
+  - [Chrome extensions](#chrome-extensions)
+  - [Colors](#colors)
+  - [Design inspirations](#design-inspirations)
+  - [Fonts](#fonts)
+  - [Logos](#logos)
+  - [Icons](#icons)
+  - [Images](#images)
+    - [pictures](#pictures)
+    - [backgrounds](#backgrounds)
+    - [Image editors](#image-editors)
+    - [Textures](#textures)
+    - [Illustrations & Vectors](#illustrations--vectors)
+    - [Animated svgs](#animated-svgs)
+  - [SEO](#seo)
+  - [Text editors](#text-editors)
+  - [Jobs](#jobs)
+  - [Other](#other)
 
 ## Chrome extensions
 
@@ -95,6 +98,7 @@
 - [simpleicons](https://simpleicons.org/) (brands icons)
 - [Tabler](https://github.com/tabler/tabler-icons)
 - [icones](https://icones.netlify.app/)
+- [loading.io](https://loading.io/)
 
 ## Images
 
@@ -137,6 +141,11 @@
 - [blush](https://blush.design/)
 - [sapiens](https://sapiens.ui8.net/)
 - [hooraypic](https://hooraypic.com/)
+- [pixeltrue](https://www.pixeltrue.com/free-illustrations)
+
+### Animated svgs
+- [icon8 animated](https://icons8.com/animated-icons)
+
 ## SEO
 - [Pingdom](https://tools.pingdom.com/)
 - [Seoptimer](https://www.seoptimer.com/)
