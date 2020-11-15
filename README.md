@@ -32,6 +32,7 @@
 - [Visbug](https://chrome.google.com/webstore/detail/visbug/cdockenadnadldjbbgcallicgledbeoc?hl=en) : interact with your page directly from the browser .
 - [Wappalyzer](https://chrome.google.com/webstore/detail/wappalyzer/gppongmhjkpfnbhagpmjfkannfbllamg?hl=en) : identify web technologies .
 
+
 ## Colors
 
 - [Use & Modify](http://usemodify.com/)
@@ -176,3 +177,4 @@
 - [facebook mockups](https://facebook.design/devices)
 - [https://namelix.com/](https://namelix.com/)(Brand name generation)
 - [colorsandfonts](https://www.colorsandfonts.com/) (overall tool)
+- [airbnb lottie animations](https://airbnb.io/lottie/#/)
